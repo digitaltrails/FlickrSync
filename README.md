@@ -1,6 +1,9 @@
 FlickrSync
 ==========
 
+It seems there is already a program called FlickrSync in the M$ Windows
+realm.  I guess I will need to come up with a new name at some point.
+
 A python script to mirror flicker images and metadata.  A second script to 
 create a standalone HTML slideshow from the mirror browseable via file:///
 
